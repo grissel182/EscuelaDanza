@@ -1,0 +1,191 @@
+/*HEADER - MENU SUPERIOR*/
+.titulo{
+	color: #19086D;
+	text-align: center;
+	margin: 30px;
+}
+header ul{
+	text-align: center;
+	padding-bottom: 20px;
+}
+header li{
+	display: inline-block;
+	padding: 5px 50px;
+	text-decoration: none;
+	color: #AAA4A4;
+}
+.txtgrey{
+	color: #AAA4A4;
+}
+/*SLIDE 1*/
+.slide-1{
+	background-image: url("../img/dance_1.jpg");
+	background-position: top;
+	background-size: cover;
+	height: 420px;
+}
+.big{
+	font-size: 60px;
+	font-family: arial;
+}
+.fs13{
+	font-size: 13px;
+}
+.btn1{
+	padding: 10px;
+	background-color: #1C153B;
+	margin: 30px 110px 140px 0;
+}
+.mgtb{    /*margen superior en studio y txt , inferior*/
+	margin: 80px 0 20px;
+}
+/*seccion primera, oferta de clases*/
+.background1{
+	background-image: url("../img/textura_2.jpg");
+}
+.grey{
+	color: #555252;
+}
+.fs22{
+	font-size: 22px;
+}
+.mglr{ /*MARGENES DERECHA E IZQUIERDA EN TEXTO*/
+	margin: 50px 110px 5px;
+	line-height: 30px;
+}
+.txtcenter{
+	text-align: center;
+}
+.deco{
+	width: 15%;
+	margin-left: 42%;
+	margin-top: -40px;
+}
+.btn2{
+	background-color: #0E1F51;
+	border-radius: 8px;
+	width: 250px;
+	height: 50px;
+	padding: 15px;
+	margin: -20px 0 50px 36% ;
+}
+.txtbco{
+	color: white;
+}
+/*seccion nuestros instructores, fotos mitad de pantalla*/
+.imgmitad{
+	width: 50%;
+	height: 320px;
+	padding: 0;
+	margin: 0;
+}
+.borde{
+	border: 2px solid #0E2548;
+	padding: 0;
+	margin: 0;
+}
+.foto{
+	background-size: 100%;
+	z-index: -1;
+}
+.foto1{
+	background-image: url("../img/instructor_4.jpg");
+	margin-bottom: -4px;
+}
+.foto2{
+	background-image: url("../img/profesor_9.jpg");
+	margin-bottom: -4px;
+}
+.display{
+	display: inline-block;
+}
+.floatr{
+	float: right;
+}
+.nuestros{   /*chechar margenes y posicion, para que se pueda encimar sin que empuje el borde!*/
+	width: 480px;
+	line-height: 60px;
+	background-color: #0E2548;
+	position: absolute;
+	margin-top: -60px;
+	margin-left: 420px;
+}
+/*fin de esa seccion, comienza solo el texto */
+.linebig p{
+	font-size: 38px;
+	font-weight: 600;
+	line-height: 50px;
+	text-align: center;
+}
+.linebig{
+	padding: 60px 5px;
+}
+/*------seccion de mapa -fondo azul*/
+.visitanos{
+	font-size: 21px;
+}
+.blue{
+	background-color: #0E2548;
+}
+.fs13{
+	font-size: 13px;
+}
+.mgb{
+	margin-bottom: 20px;
+}
+.lh{
+	line-height: 15px;
+	padding-right: 70px;
+}
+.light{
+	font-weight: 100;
+}
+.marginbot{
+	margin-bottom: 30px;
+}
+/*seccion de formulario zapatillas*/
+.zapatillas{
+	float: right;
+}
+.contacto{
+	font-size: 30px;
+	color: #19086D;
+	margin: 60px 0;
+	font-weight: 400;
+	font-family: arial;
+}
+.pos{
+	position: absolute;
+}
+.form{
+	width: 110%;
+	height: 40px;
+	border: 1px solid #D1CCCC;
+	padding: 4px;
+	margin: 10px 0;
+}
+.iconsize{
+	width: 20px;
+	margin: 5px 10px 0 15px;
+}
+.fs11{
+	font-size: 13px;
+}
+.gris{
+	color: #CEC9C9
+}
+.msj{
+	padding: 4px 4px 120px 4px;
+}
+.btnazul{
+	width: 110%;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #0E2548;
+	font-weight: 600;
+	padding: 13px;
+}
+footer{
+	background-color: #0E2548;
+	padding: 25px 0 15px 25px;
+}
