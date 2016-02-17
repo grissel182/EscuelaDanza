@@ -4,6 +4,9 @@
 	text-align: center;
 	margin: 30px;
 }
+.noline{
+	text-decoration: none;
+}
 header ul{
 	text-align: center;
 	padding-bottom: 20px;
@@ -87,14 +90,13 @@ header li{
 .foto{
 	background-size: 100%;
 	z-index: -1;
+	margin-bottom: -4px;
 }
 .foto1{
 	background-image: url("../img/instructor_4.jpg");
-	margin-bottom: -4px;
-}
+	}
 .foto2{
 	background-image: url("../img/profesor_9.jpg");
-	margin-bottom: -4px;
 }
 .display{
 	display: inline-block;
@@ -184,6 +186,12 @@ header li{
 	background-color: #0E2548;
 	font-weight: 600;
 	padding: 13px;
+}
+.up{
+	position: fixed;
+	right: 40px;
+	bottom: 60px;
+	width: 40px;
 }
 footer{
 	background-color: #0E2548;

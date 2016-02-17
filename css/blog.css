@@ -1,1 +1,189 @@
-/* Inserta tu codigo aqui */
+/*HEADER - MENU SUPERIOR*/
+.titulo{
+	color: #19086D;
+	text-align: center;
+	margin: 30px;
+}
+.noline{
+	text-decoration: none;
+}
+header ul{
+	text-align: center;
+	padding-bottom: 20px;
+}
+header li{
+	display: inline-block;
+	padding: 5px 50px;
+	text-decoration: none;
+	color: #AAA4A4;
+}
+.txtgrey{
+	color: #AAA4A4;
+}
+
+.fs13{
+	font-size: 13px;
+}
+.btn1{
+	padding: 10px;
+	background-color: #1C153B;
+	margin: 30px 110px 140px 0;
+}
+.mgtb{    /*margen superior en studio y txt , inferior*/
+	margin: 80px 0 20px;
+}
+
+/*seccion primera, clases*/
+.fondoclass{
+	background-color: #EFECEC;
+}
+.bgcrow{
+	background-color: #D4D1D1;
+	margin: 25px 0;
+	margin-bottom: 50px;
+}
+/*IMAGENES DEL BLOG*/
+.blog{
+	background-position: center;
+	width: 220px;
+	height: 220px;
+}
+.blogtxt1{
+	padding: 35px;
+}
+.btn3{
+	background-color: #0E1F51;
+	border-radius: 8px;
+	width: 210px;
+	height: 35px;
+	margin-top: 20px;
+	padding: 7px
+}
+.pic1{
+	background-image: url("../img/blog1.jpg");
+	background-size: 110%;
+}
+.pic2{
+	background-image: url("../img/profesor_5.jpg");
+	background-size: 160%;
+}
+.pic3{
+	background-image: url("../img/instructor_1.jpg");
+	background-size: 160%;
+}
+/*padding de toda la seccion de blog, */
+.pdbblog{
+	padding-bottom: 60px;
+}
+
+.pdbimagenes{
+	padding-bottom: 40px;
+}
+
+
+.grey{
+	color: #555252;
+}
+.pdtb{
+	padding: 50px 0 90px;
+}
+.ml{
+	margin: 10px 20px;
+}
+.pdins{
+	padding: 40px;
+}
+.ancho{
+	width: 100%;
+}
+.alto{
+	height: 150px;
+}
+.pdimg{  /*PADDING DE IMAGEN Y MARGEN DE LOS PROFES*/
+	margin: 5px 0 20px 0;
+}
+.pdrow{
+	padding: 30px 0 60px;
+}
+.fs22{
+	font-size: 22px;
+}
+.mglr{ /*MARGENES DERECHA E IZQUIERDA EN TEXTO*/
+	margin: 50px 110px 5px;
+	line-height: 30px;
+}
+.txtcenter{
+	text-align: center;
+}
+
+.btn2{
+	background-color: #0E1F51;
+	border-radius: 8px;
+	width: 250px;
+	height: 50px;
+	padding: 15px;
+	margin: -20px 0 50px 36% ;
+}
+.txtbco{
+	color: white;
+}
+
+.display{
+	display: inline-block;
+}
+.floatr{
+	float: right;
+}
+
+/*seccion de formulario zapatillas*/
+.zapatillas{
+	float: right;
+}
+.contacto{
+	font-size: 30px;
+	color: #19086D;
+	margin: 60px 0;
+	font-weight: 400;
+	font-family: arial;
+}
+.pos{
+	position: absolute;
+}
+.form{
+	width: 110%;
+	height: 40px;
+	border: 1px solid #D1CCCC;
+	padding: 4px;
+	margin: 10px 0;
+}
+.iconsize{
+	width: 20px;
+	margin: 5px 10px 0 15px;
+}
+.fs11{
+	font-size: 13px;
+}
+.gris{
+	color: #B9B7B7;
+}
+.msj{
+	padding: 4px 4px 120px 4px;
+}
+.btnazul{
+	width: 110%;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #0E2548;
+	font-weight: 600;
+	padding: 13px;
+}
+.up{
+	position: fixed;
+	right: 40px;
+	bottom: 60px;
+	width: 40px;
+}
+footer{
+	background-color: #0E2548;
+	padding: 25px 0 15px 25px;
+}
